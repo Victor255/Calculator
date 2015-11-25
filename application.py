@@ -26,7 +26,7 @@ def menu():
     print "|____________________________________________|"
 
 def optis():
-    """SHOWS THE RESPONSE ON THE SCREEN shows"""
+    """SHOWS THE RESPONSE ON THE SCREEN SHOWS"""
     option_one = Enter_number()
     option_two = Enter_number()
     clear()
