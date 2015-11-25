@@ -41,7 +41,7 @@ def Enter_number():
             return answer
             break
         except ValueError:
-            print "\nTry again."
+            print "\nInsert only numbers please."
 
 def Incognit():
     """ASK IF THE USER WANTS TO MAKE OTHER OPERATION """
