@@ -106,6 +106,7 @@ def select_menu():
             clear()
             sys.exit(1)
         else:
+            os.system("clear")
             menu_two()
 
 if __name__ == '__main__':
